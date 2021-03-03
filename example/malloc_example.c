@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main() 
+int sample()
 {
     int n, i, *ptr, sum = 0;
 
